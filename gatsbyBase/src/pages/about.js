@@ -8,7 +8,7 @@ const About = () => (
   <Layout>
     <Seo title="Page two" />
     <h1>Hi from the about page</h1>
-    <p>Welcome to about</p>
+    <p className="mt-10">Welcome to about</p>
     <Link to="/">Go back to the about</Link>
   </Layout>
 )
